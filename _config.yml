@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : false #"disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "devasher" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"devasher" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse--via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -116,12 +116,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/asherchoi"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tahun970@gmail.com"
-    #- label: "Facebook"
-    # icon: "fab fa-fw fa-facebook-square"
-    #   url: "https://www.facebook.com/choi.taehun.3"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/choi.taehun.3"
 
 
 
