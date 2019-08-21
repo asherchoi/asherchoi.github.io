@@ -34,7 +34,7 @@ comments:
   disqus:
     shortname            : "devasher" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse--via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -113,16 +113,16 @@ author:
   location         : "Republic of Korea"
   email            : "tahun970@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:tahun970@gmail.com"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/choi.taehun.3"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/asherchoi"
+      url: "https://github.com/asherchoi"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tahun970@gmail.com"
+    #- label: "Facebook"
+    # icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://www.facebook.com/choi.taehun.3"
+
 
 
 # Site Footer
@@ -284,12 +284,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
-        # _pages
+  # _pages
   - scope:
-      path: "" # "_pages"
+      path: "_pages" # "_pages"
       type: pages
     values:
       layout: single
