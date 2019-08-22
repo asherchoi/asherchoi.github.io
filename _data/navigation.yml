@@ -1,12 +1,49 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: /
+  - title: "Archive"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+
+extensions:
+  - title: Development
+    children:
+      - title: "Python"
+        url: /categories/python/
+      - title: "JAVA"
+        url: /categories/java/
+      - title: "SQL"
+        url: /categories/sql/
+      - title: "Git"
+        url: /categories/git/
+      - title: "DataStructure"
+        url: /categories/datastructure/
+      - title: "Algorithm"
+        url: /categories/algorithm/
+      - title: "Android"
+        url: /categories/android/
+
+  - title: Data Science
+    children:
+      - title: "Machine Learning"
+        url: /categories/machinelearning/
+
+  - title: Problem Solving
+    children:
+      - title: "BOJ"
+        url: https://github.com/asherchoi/sw-expert-academy
+      - title: "Programmers"
+        url: https://github.com/asherchoi/programmers-algorithm-basic
+
+  - title: ETC.
+    children:
+      - title: "English"
+        url: /categoris/english/
+      - title: "Daily"
+        url: /categoris/daily/

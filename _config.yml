@@ -118,7 +118,7 @@ author:
       url: "https://github.com/asherchoi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/choi.taehun.3"
+      url: "https://www.facebook.com/devasherchoi"
 
 
 
@@ -221,7 +221,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  #- jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -230,7 +230,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  #- jemoji
   - jekyll-include-cache
 
 
@@ -284,6 +284,12 @@ defaults:
       comments:  true
       share: true
       related: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "list"
+      toc_sticky: true
+      sidebar:
+        nav: "extensions"
   # _pages
   - scope:
       path: "_pages" # "_pages"

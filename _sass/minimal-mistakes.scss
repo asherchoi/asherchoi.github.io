@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
+
 /* Variables */
 @import "minimal-mistakes/variables";
 
@@ -38,3 +39,43 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Customization */
+
+
+.author__urls-wrapper {
+    z-index: 50;
+}
+
+.btn--inverse:hover {
+    color: $lighter-gray;
+    background-color: $dark-gray;
+}
+
+.nav__list label:hover {
+    color: $lighter-gray;
+    background-color: $dark-gray;
+}
+
+.nav__list input:checked+label {
+    color: $lighter-gray;
+    background-color: $dark-gray;
+}
+
+#main {
+    max-width: 96%;
+}
+
+
+.page {
+    font-size: 16px;
+}
+
+.page__footer {
+    color: $dark-gray;
+    text-align: center;
+
+    > footer {
+        text-align: center;
+    }
+}
