@@ -41,8 +41,6 @@
 @import "minimal-mistakes/print";
 
 /* Customization */
-
-
 .author__urls-wrapper {
     z-index: 50;
 }
@@ -68,7 +66,7 @@
 
 
 .page {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 .page__footer {
@@ -80,11 +78,15 @@
     }
 }
 
-img.alignleft{float:left}
-
-img.alignright{float:right}
 
 img.aligncenter{
   width: "250px";
   display: block;
-  margin:0 auto}
+  margin:0 auto
+}
+
+div.highlighter-rouge,
+figure.highlight {
+  font-family: "Consolas";
+  font-size: 14px;
+}

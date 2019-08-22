@@ -16,18 +16,18 @@ extensions:
     children:
       - title: "Python"
         url: /categories/python/
-      - title: "JAVA"
-        url: /categories/java/
-      - title: "SQL"
-        url: /categories/sql/
+      #- title: "JAVA"
+      #  url: /categories/java/
+      #- title: "SQL"
+      #  url: /categories/sql/
       - title: "Git"
         url: /categories/git/
       - title: "Data Structure"
         url: /categories/datastructure/
       - title: "Algorithm"
         url: /categories/algorithm/
-      - title: "Android"
-        url: /categories/android/
+      #- title: "Android"
+      #  url: /categories/android/
 
   - title: Data Science
     children:
