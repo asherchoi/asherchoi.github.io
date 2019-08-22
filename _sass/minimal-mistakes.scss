@@ -79,3 +79,12 @@
         text-align: center;
     }
 }
+
+img.alignleft{float:left}
+
+img.alignright{float:right}
+
+img.aligncenter{
+  width: "250px";
+  display: block;
+  margin:0 auto}

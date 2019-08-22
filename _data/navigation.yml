@@ -22,7 +22,7 @@ extensions:
         url: /categories/sql/
       - title: "Git"
         url: /categories/git/
-      - title: "DataStructure"
+      - title: "Data Structure"
         url: /categories/datastructure/
       - title: "Algorithm"
         url: /categories/algorithm/
