@@ -44,6 +44,4 @@ extensions:
   - title: ETC.
     children:
       - title: "English"
-        url: /categoris/english/
-      - title: "Daily"
-        url: /categoris/daily/
+        url: /categories/english/

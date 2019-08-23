@@ -11,13 +11,15 @@ toc_sticky: true
 URL: <https://github.com/asherchoi/asherchoi.github.io>
 
 ## Notice
-
 - 주로 공부한 내용을 정리하여 포스팅합니다. 오류가 있을 수 있습니다.  
 I mainly post the contents of my study. So there may be errors.  
 Don't hesitate inform me about them.
 
 - 블로그에 문제가 있을 경우 피드백 부탁드립니다.  
 If there are any problems on my blog, please give me feedbacks.
+
+- 저는 고기를 좋아합니다. 매일 먹고 싶습니다.  
+I like gogi. I want to eat it every day.
 <br>
 
 ## Reference
