@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://asherchoi.github.io/sitemap.xml
