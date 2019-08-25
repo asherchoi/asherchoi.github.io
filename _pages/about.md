@@ -18,8 +18,8 @@ Don't hesitate inform me about them.
 - 블로그에 문제가 있을 경우 피드백 부탁드립니다.  
 If there are any problems on my blog, please give me feedbacks.
 
-- 저는 고기를 좋아합니다. 매일 먹고 싶습니다.  
-I like gogi. I want to eat it every day.
+- 저는 치즈를 좋아합니다. 매일 먹고 싶습니다.  
+I like cheeses. I want to eat it every day.
 <br>
 
 ## Reference

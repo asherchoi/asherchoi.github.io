@@ -16,10 +16,10 @@ extensions:
     children:
       - title: "Python"
         url: /categories/python/
-      #- title: "JAVA"
-      #  url: /categories/java/
-      #- title: "SQL"
-      #  url: /categories/sql/
+      - title: "JAVA"
+        url: /categories/java/
+      - title: "SQL"
+        url: /categories/sql/
       - title: "Git"
         url: /categories/git/
       - title: "Data Structure"
