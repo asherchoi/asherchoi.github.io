@@ -16,7 +16,7 @@ I mainly post the contents of my study.
 So there may be errors. Don't hesitate inform me about them.
 
 - 포스팅에 대해 궁금하신 점 혹은 피드백을 댓글을 통해 남겨주시면 회신하겠습니다.  
-If you want to dicuss about my post further. feel free to leave your opinion via disqus.
+If you want to discuss about my post further. feel free to leave your opinion via disqus.
 
 - 블로그에 문제가 있을 경우 피드백 부탁드립니다.  
 If there are any problems on my blog, please give me feedbacks.
