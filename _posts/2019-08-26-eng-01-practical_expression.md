@@ -70,55 +70,55 @@ Source : [딱이만큼영어프로젝트](http://englishddac.com/ab-1321-15)
 |  49   |       우리 영화 보러 갔었는데, 그 영화는 재미 없었어.        | We went to the a movie, but, we didn't enjoy the firm. |
 |  50   |             일요일에 비왔니? / 응, 왔어             | Did rain at sunday? Yes, it did. |
 |  51   | 그가 뭐라고 했어? / 모르겠어. 난 듣고 있지 않았어. | What does he say? I don't know. I wasn't hearing. |
-|  52   |    비가 왔었어. 그래서 우리는 외출하지 않았어.    |       |
-|  53   |     2001년에 우리는 일본에 살고 있었어.      |       |
-|  54   |   태양은 빛나고 있었고, 새들은 노래하고 있었어.    |       |
-|  55   |   내가 전화 했을 때, 티비 보고 있었니?    |       |
-|  56   | 우리가 휴가 가 있는 동안에, 비가 오지 않았어. |       |
-|  57   |  내가 일어났을 때, 비가 오고 있지 않았어.   |       |
-|  58   |    Kelly는 책을 읽는 도중 잠들었어.    |       |
-|  59   |  나는 과거에 책을 많이 읽곤 했지만, 요즘엔 많이 읽지 않아.   |       |
-|  60   | Helen은 피아노를 가지고 있었지만, 몇 년 전에 그것을 팔았어. |       |
-|  61   |       내가 어렸을 땐, 토마토를 좋아하지 않았어.        |       |
-|  62   |          여기에 오기 전에 어디에 살았었니?          |       |
-|  63   | 그녀는 여태까지 다양한 직업을 가져왔고, 많은 장소에 살았어. |       |
-|  64   |       몇 번이나 브라질이 월드컵에서 우승했니?       |       |
-|  65   |     내 여동생은 한번도 비행기로 여행한 적이 없어.     |       |
-|  66   |        나는 한번도 말을 타본 적이 없어.         |       |
-|  67   |  그들은 결혼 한 지 5년이 되었어.   |       |
-|  68   |   그녀는 평생 그 장소에 살아왔어.   |       |
-|  69   | 나는 2년 동안 독이에서 공부하고 있어. |       |
-|  70   |    하루 종일 비가 내리고 있어.    |       |
-|  71   | Jane은 브라질에 있어. 그녀는 그곳에 3일 동안 있었어. |       |
-|  72   | Jane은 브라질에 있어. 그녀는 그곳에 월요일부터 있었어. |       |
-|  73   |        우리는 9시부터 기다리고 있었어.         |       |
-|  74   |   Susan은 3주 전에 그녀의 새로운 일을 시작했어.   |       |
-|  75   |         나 여권을 잃어 버렸어.         |       |
-|  76   | Kate는 어디에 있니? / 그녀는 자러갔어. |       |
-|  77   | Peter가 여기에 있니? 아니, 그는 집에 갔어.  |       |
-|  78   |        나 어제 열쇠를 잃어버렸어.        |       |
-|  79   |    Diane과 Paul이 여기에 있니? / 응 그들은 방금 도착했어.    |       |
-|  80   |  몇 시에 Diane과 Paul이 오니? / 그들은 이미 여기에 도착했어.   |       |
-|  81   | Diane과 Paul이 여기에 있니? / 아니, 그들은 아직 도착하지 않았어. |       |
-|  82   |       Diane과 Paul이 아직 도착 안했니? / 응, 아직       |       |
-|  83   |            우리는 작년에 휴가를 안 떠났어.            |       |
-|  84   | 윌리엄 셰익스피어는 1564년부터 1616년까지 살았어. 그는 작가였어. |       |
-|  85   |             Andy는 몇 시에 외출했니?             |       |
-|  86   |              스페인에 가본 적 있니?               |       |
-|  87   |    오렌지는 캐나다로 수입 돼.     |       |
-|  88   | 나는 한번도 파티에 초대된 적이 없어.  |       |
-|  89   | 나는 콜럼비아에서 1989년에 태어났어. |       |
-|  90   |     전화기는 언제 발명되었니?     |       |
-|  91   | 내 자동차는 차고에 있어. / 그것은 수리 중이야. |       |
-|  92   |  몇몇의 새 집들이 공원 반대편에 지어지고 있어.  |       |
-|  93   |        이 셔츠는 세탁된 것이니?        |       |
-|  94   |  이 방은 더 이상 더럽지 않아, 청소되었거든.   |       |
-|  95   | 비가 오고 있지 않았어. 그래서, 우리는 우산이 필요 없었어. |       |
-|  96   |           나는 커피 몇 잔을 탔어.           |       |
-|  97   |         Tom은 말을 타본 적이 없어.          |       |
-|  98   |        Chris는 자주 외출 하지 않아.         |       |
-|  99   |          나는 어제 케이크를 만들었어.          |       |
-|  100  |           나는 커피 몇 잔을 탔어.           |       |
+|  52   |    비가 왔었어. 그래서 우리는 외출하지 않았어.    | It was raining, so we didn't go out. |
+|  53   |     2001년에 우리는 일본에 살고 있었어.      | In 2001, we were living in Japan. |
+|  54   |   태양은 빛나고 있었고, 새들은 노래하고 있었어.    | The Sun was shining, and the birds were singing. |
+|  55   |   내가 전화 했을 때, 티비 보고 있었니?    | Were you watching television when I called you. |
+|  56   | 우리가 휴가 가 있는 동안에, 비가 오지 않았어. | It didn't raining when we were on vacation. |
+|  57   |  내가 일어났을 때, 비가 오고 있지 않았어.   | It wasn't raining when I got up.  |
+|  58   |    Kelly는 책을 읽는 도중 잠들었어.    | Kelly fall asleep while she was reading a book. |
+|  59   |  나는 과거에 책을 많이 읽곤 했지만, 요즘엔 많이 읽지 않아.   | I used to read a lot of books, but I don't read much these days. |
+|  60   | Helen은 피아노를 가지고 있었지만, 몇 년 전에 그것을 팔았어. | Helen used to have a piano, but she sold it a few years ago. |
+|  61   |       내가 어렸을 땐, 토마토를 좋아하지 않았어.        | When I was young, I didn't used to like tomatoes. |
+|  62   |          여기에 오기 전에 어디에 살았었니?          | Where did you used to live before you came here? |
+|  63   | 그녀는 여태까지 다양한 직업을 가져왔고, 많은 장소에 살았어. | She has had a lot of jobs, and has lived in many places. |
+|  64   |       몇 번이나 브라질이 월드컵에서 우승했니?       |  How many times has Brazil won the World Cup? |
+|  65   |     내 여동생은 한번도 비행기로 여행한 적이 없어.     | My sister has never traveled by plane. |
+|  66   |        나는 한번도 말을 타본 적이 없어.         | I have never ridden the horse. |
+|  67   |  그들은 결혼 한 지 5년이 되었어.   | They have been married for five years. |
+|  68   |   그녀는 평생 그 장소에 살아왔어.   | She have lived in there all her life. |
+|  69   | 나는 2년 동안 독일에서 공부하고 있어. | I have been studying in Germany for 2 years. |
+|  70   |    하루 종일 비가 내리고 있어.    | It's been raining all day. |
+|  71   | Jane은 브라질에 있어. 그녀는 그곳에 3일 동안 있었어. | Jane is in Brazil. She has been there for 3 days. |
+|  72   | Jane은 브라질에 있어. 그녀는 그곳에 월요일부터 있었어. | Jane is in Brazil. She has been since Monday. |
+|  73   |        우리는 9시부터 기다리고 있었어.         | We have been waiting since 9:00 o'clock. |
+|  74   |   Susan은 3주 전에 그녀의 새로운 일을 시작했어.   | Susan started her new job 3 weeks ago. |
+|  75   |         나 여권을 잃어 버렸어.         | I've lost my passport. |
+|  76   | Kate는 어디에 있니? / 그녀는 자러갔어. | Where is Kate? She's gone to bed. |
+|  77   | Peter가 여기에 있니? 아니, 그는 집에 갔어.  | Is peter in here? No, he has gone home. |
+|  78   |        나 어제 열쇠를 잃어버렸어.        | I lost my key yesterday. |
+|  79   |    Diane과 Paul이 여기에 있니? / 응 그들은 방금 도착했어.    | Are Diane and Paul here? Yes, they just arrived. |
+|  80   |  몇 시에 Diane과 Paul이 오니? / 그들은 이미 여기에 도착했어.   | What time are Diane and Paul coming? They already arrived. |
+|  81   | Diane과 Paul이 여기에 있니? / 아니, 그들은 아직 도착하지 않았어. | Are diane and Paul here? No, not yet. |
+|  82   |       Diane과 Paul이 아직 도착 안했니? / 응, 아직       | Did Diane and Paul arrive yet? No, not yet. |
+|  83   |            우리는 작년에 휴가를 안 떠났어.            | We didn't take a vacation last summer. |
+|  84   | 윌리엄 셰익스피어는 1564년부터 1616년까지 살았어. 그는 작가였어. | William Shakespeare had lived from 1564 to 1616. He was writer. |
+|  85   |             Andy는 몇 시에 외출했니?             | What time did Andy go out? |
+|  86   |              스페인에 가본 적 있니?               | Have you ever been to Spain? |
+|  87   |    오렌지는 캐나다로 수입 돼.     | Orange are imported into Canada. |
+|  88   | 나는 한번도 파티에 초대된 적이 없어.  | I have never been invited to parties. |
+|  89   | 나는 콜럼비아에서 1989년에 태어났어. | I was born in Colombia in 1989. |
+|  90   |     전화기는 언제 발명되었니?     | When was the telephone invented? |
+|  91   | 내 자동차는 차고에 있어. / 그것은 수리 중이야. | I car is in garage. It is being repaired. |
+|  92   |  몇몇의 새 집들이 공원 반대편에 지어지고 있어.  | Some new housed are being built across from a park. |
+|  93   |        이 셔츠는 세탁된 것이니?        | Has this shirts been washed? |
+|  94   |  이 방은 더 이상 더럽지 않아, 청소되었거든.   | The room isn't dirty any more. It's been cleared. |
+|  95   | 비가 오고 있지 않았어. 그래서, 우리는 우산이 필요 없었어. | It wasn't raining. So, We did not need umbrella. |
+|  96   |           나는 커피 몇 잔을 탔어.           | I made some coffees. |
+|  97   |         Tom은 말을 타본 적이 없어.          | Tom has never ridden a horse. |
+|  98   |        Chris는 자주 외출 하지 않아.         | Chris doesn't go outside very often. |
+|  99   |          나는 어제 케이크를 만들었어.          | I made some cakes yesterday. |
+|  100  |           나는 커피 몇 잔을 탔어.           | I made some coffee. |
 |  101  | 누군가 어젯밤 이 창문을 깨트렸어. (현재 창문 상태는 모름) |       |
 |  102  |   누군가 이 창문을 깨트렸어. (현재도 창문이 깨져있음)   |       |
 |  103  |     Andrew는 내일 테니스를 칠거야.      |       |
