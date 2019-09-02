@@ -36,10 +36,11 @@ extensions:
 
   - title: Problem Solving
     children:
-      - title: "BOJ"
-        url: https://github.com/asherchoi/sw-expert-academy
       - title: "Programmers"
         url: https://github.com/asherchoi/programmers-algorithm-basic
+      - title: "BOJ"
+        url: https://github.com/asherchoi/sw-expert-academy
+
 
   - title: ETC.
     children:
