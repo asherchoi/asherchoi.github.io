@@ -16,7 +16,7 @@ extensions:
     children:
       - title: "Python"
         url: /categories/python/
-      - title: "JAVA"
+      - title: "Java"
         url: /categories/java/
       - title: "SQL"
         url: /categories/sql/
