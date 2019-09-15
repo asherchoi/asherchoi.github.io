@@ -1,7 +1,7 @@
 ---
 title: "[ML] Gradient Descent Algorithm For Linear Regression With One Variable"
 excerpt: 
-last_modified_at: 2019-05-10
+last_modified_at: 2019-09-15
 
 categories:
   - MachineLearning
