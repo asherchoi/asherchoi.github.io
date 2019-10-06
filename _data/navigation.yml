@@ -30,6 +30,8 @@ extensions:
         url: /categories/docker/
       - title: "Android"
         url: /categories/android/
+      - title: "Firebase"
+        url: /categories/firebase/
 
   - title: Data Science
     children:
