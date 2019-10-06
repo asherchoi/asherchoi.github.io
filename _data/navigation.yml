@@ -26,8 +26,10 @@ extensions:
         url: /categories/datastructure/
       - title: "Algorithm"
         url: /categories/algorithm/
-      #- title: "Android"
-      #  url: /categories/android/
+      - title : "Docker"
+        url: /categories/docker/
+      - title: "Android"
+        url: /categories/android/
 
   - title: Data Science
     children:
