@@ -18,20 +18,18 @@ extensions:
         url: /categories/python/
       - title: "Java"
         url: /categories/java/
-      - title: "SQL"
-        url: /categories/sql/
       - title: "Git"
         url: /categories/git/
       - title: "Data Structure"
         url: /categories/datastructure/
       - title: "Algorithm"
         url: /categories/algorithm/
+      - title: "SQL"
+        url: /categories/sql/
       - title : "Docker"
         url: /categories/docker/
-      - title: "Android"
-        url: /categories/android/
-      - title: "Firebase"
-        url: /categories/firebase/
+      - title: "Backend"
+        url: /categories/backend/
 
   - title: Data Science
     children:
