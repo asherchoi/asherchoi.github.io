@@ -63,6 +63,11 @@ sudo vim /etc/nginx/sites-available/default
 
 
 
+mkdir /var/www/mysite
+cd /var/www/mysite
+virtualenv --python=python3.5 was_env
+source was_env/bin/activate
+
 
 sudo find / -name nginx.conf
 nfinx config 파일을 찾음
@@ -109,3 +114,24 @@ sudo netstat -ntlp
 
 curl -X POST localhost:5001/user
 curl -X POST localhost:5002/user
+
+
+
+sudo docker-compose up --build
+
+
+# docker container stop이 안될 때
+
+시스템관리자 AppArmor가 일을 똑바로 안해서 발생
+
+For anyone that does not wish to completely purge AppArmor.
+Check status: sudo aa-status
+Shutdown and prevent it from restarting: sudo systemctl disable apparmor.service --now
+Unload AppArmor profiles: sudo service apparmor teardown
+Check status: sudo aa-status
+You should now be able to stop/kill containers.
+ 
+ sudo docker-compose down
+
+
+ flask run --host=0.0.0.0 --port=80
